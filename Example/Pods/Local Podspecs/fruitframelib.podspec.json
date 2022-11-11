@@ -1,0 +1,27 @@
+{
+  "name": "fruitframelib",
+  "version": "0.1.0",
+  "summary": "This is my testlib",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Dhanabal505/fruitframelib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dhanabal505": "psdhanabal505@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Dhanabal505/fruitframelib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.0",
+  "ios": {
+    "vendored_frameworks": "FruitsFrame.xcframework"
+  },
+  "source_files": "fruitframelib/Classes/**/*",
+  "swift_version": "5.0"
+}

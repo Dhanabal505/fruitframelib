@@ -1,0 +1,6 @@
+framework module fruitframelib {
+  umbrella header "fruitframelib-umbrella.h"
+
+  export *
+  module * { export * }
+}

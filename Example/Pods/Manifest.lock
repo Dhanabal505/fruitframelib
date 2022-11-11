@@ -1,0 +1,16 @@
+PODS:
+  - fruitframelib (0.1.0)
+
+DEPENDENCIES:
+  - fruitframelib (from `../`)
+
+EXTERNAL SOURCES:
+  fruitframelib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  fruitframelib: 64400667b2831be2a44db1d4d7946c255bda6fe7
+
+PODFILE CHECKSUM: 5dc49750706e92fc3fe23d17acc0d205c19a10f0
+
+COCOAPODS: 1.11.3

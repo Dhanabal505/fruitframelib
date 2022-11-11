@@ -1,0 +1,6 @@
+framework module Pods_fruitframelib_Example {
+  umbrella header "Pods-fruitframelib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
